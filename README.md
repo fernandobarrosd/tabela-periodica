@@ -1,5 +1,5 @@
 <h1>Projeto Tabela Periódica</h1>
-<p>Usando as Seguintes coisas</p>
+<p>Usando as seguintes tecnologias</p>
 
 <ul>
     <li>HTML5</li>
@@ -8,4 +8,4 @@
 
 
 <h2>Um preview do site abaixo</h2>
-<img src="assets/images/preview-image.jpg">
+<img src="assets/images/preview-image.jpeg">
