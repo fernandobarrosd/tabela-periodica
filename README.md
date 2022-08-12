@@ -1,5 +1,5 @@
 <h1>Projeto Tabela Periódica</h1>
-<p>Usando as seguintes tecnologias</p>
+<h2>Usando as seguintes tecnologias:</h2>
 
 <ul>
     <li>HTML5</li>
