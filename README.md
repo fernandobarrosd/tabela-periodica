@@ -8,4 +8,4 @@
 
 
 <h2>Um preview do site abaixo</h2>
-<img src="assets/images/preview-image.jpeg">
+<img src="assets/images/preview-image.png">
