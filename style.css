@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(145, 177, 177);
+}
+
+main {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#tabela-periodica {
+    border-collapse: collapse;
+    
+}
+
+caption {
+    padding: 20px;
+    font-size: 20px;
+    
+}
+
+td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+td:not(.space):hover {
+    transform: scale(1.3);
+    cursor: pointer;
+}
+
+.space {
+    border: 0;
+}
+
+.space.padding {
+    padding: 12px;
+}
+
+
+.metal-alcalino {
+    background-color: rgb(218, 150, 24);
+}
+
+.metal-alcalino-terroso {
+    background-color: rgb(255, 166, 0);
+}
+
+.metal-de-transicao {
+    background-color: rgb(238, 90, 114);
+}
+
+.actinidios {
+    background-color: rgb(190, 105, 190);
+}
+
+.gas-nobre {
+    background-color: rgb(60, 60, 199);
+}
+
+.nao-metal {
+    background-color: rgb(38, 197, 38);
+}
+
+.outro-metal {
+    background-color: rgb(131, 131, 231);
+}
+
+.semimetal {
+    background-color: rgb(28, 104, 97);
+}
+
+.halogenios {
+    background-color: rgb(122, 216, 210);
+}
+
+.lantanideos {
+    background-color: rgb(69, 175, 168);
+}
