@@ -1,5 +1,5 @@
-<h1>Projeto Tabela Periódica</h1>
-<h2>Usando as seguintes tecnologias:</h2>
+<h1>Periodic Table Project</h1>
+<h2>Usign the following technologies</h2>
 
 <ul>
     <li>HTML5</li>
@@ -7,5 +7,5 @@
 </ul>
 
 
-<h2>Um preview do site abaixo</h2>
+<h2>Project Preview</h2>
 <img src="assets/images/preview-image.png">
